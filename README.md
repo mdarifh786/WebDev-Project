@@ -87,8 +87,8 @@ WeatherWear aims to solve the daily challenge of choosing appropriate clothing f
 
 ## License
 
-[Add your license information here]
+[Licensed by Team]
 
 ## Contact
 
-[Add your contact information here] 
+[E-mail:- hmdarif654@gmail.com] 
